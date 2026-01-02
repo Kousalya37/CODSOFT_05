@@ -1,5 +1,5 @@
-# CODSOFT_05
-# 🗂️ Contact Manager Application (Python + Tkinter)
+
+# 🗂️ Contact Manager Application
 
 A simple Contact Management System built using Python and Tkinter GUI. This app allows users to add, view, search, update, and delete contact details in a user-friendly interface.
 
